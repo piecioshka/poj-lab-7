@@ -1,25 +1,24 @@
 # poj-lab-7
 
-Zadanie polega na wczytaniu pliku "input.html", a nastêpnie zapisaniu
-odczytanej i zdekorowanej zawartoœci do pliku o innej nazwie. Proszê wiêc
-utworzyæ nastêpuj¹ce dekoratory dla strumienia wyjœciowego:
+Zadanie polega na wczytaniu pliku "input.html", a nastÄ™pnie zapisaniu
+odczytanej i zdekorowanej zawartoÅ›ci do pliku o innej nazwie. ProszÄ™ wiÄ™c
+utworzyÅ‚ nastÄ™pujÄ…ce dekoratory dla strumienia wyjÅ›ciowego:
 
-	1.	okreœlone s³owo zostanie wyt³uszczone
-	2.	okreœlone s³owo zostanie pochylone
-	3.	po zapianiu wszystkich bajtów do pliku, na ekranie zostanie wypisana
-		liczba wyst¹pienia okreœlonego s³owa
+	1.	okreÅ›lone sÅ‚owo zostanie wytÅ‚uszczone
+	2.	okreÅ›lone sÅ‚owo zostanie pochylone
+	3.	po zapianiu wszystkich bajtÃ³w do pliku, na ekranie zostanie wypisana
+		liczba wystÄ…pienia okreÅ›lonego sÅ‚owa
 	
-Po wykonaniu dekoratorów, proszê pokazaæ ich dzia³anie w nastêpuj¹cych
-scenariuszach:
+Po wykonaniu dekoratorÃ³w, proszÄ™ pokazaÄ‡ ich dziaÅ‚anie w nastÄ™pujÄ…cych scenariuszach:
 
-	1.	kopiowanie zawartoœci pliku bez dekorowania
-	2.	kopiowanie zawartoœci pliku z dekoratorem nr 1 dla s³owa "BeBe"
-	3.	kopiowanie zawartoœci pliku z dekoratorem nr 1 i 2 dla s³owa "BeBe"
-	4.	kopiowanie zawartoœci pliku z dekoratorem nr 2 i 1 (uwaga! zmiana
-		kolejnoœci wywo³ania dekoratorów) dla s³owa "BeBe"
-		*	proszê zauwa¿yæ, ¿e kolejnoœæ wpisywania tagów <i> oraz <b> uleg³a
-			zmianie w porównaniu z wersj¹ nr 3
-	5.	kopiowanie zawartoœci pliku z dekoratorem nr 1 i 2 dla s³owa "BeBe"
-		oraz jeszcze raz 2 dla s³owa "bankierów"
-	6.	kopiowanie zawartoœci pliku z dekoratorem nr 1, 2 oraz 3 dla s³owa
-		"BeBe" oraz jeszcze raz 2 dla s³owa "bankierów"
+	1.	kopiowanie zawartoÅ›ci pliku bez dekorowania
+	2.	kopiowanie zawartoÅ›ci pliku z dekoratorem nr 1 dla sÅ‚owa "BeBe"
+	3.	kopiowanie zawartoÅ›ci pliku z dekoratorem nr 1 i 2 dla sÅ‚owa "BeBe"
+	4.	kopiowanie zawartoÅ›ci pliku z dekoratorem nr 2 i 1 (uwaga! zmiana
+		kolejnoÅ›ci wywoÅ‚ania dekoratorÃ³w) dla sÅ‚owa "BeBe"
+		*	proszÄ™ zauwaÅ¼yÄ‡, Å¼e kolejnoÅ›Ä‡ wpisywania tagÃ³w <i> oraz <b> ulegÅ‚a
+			zmianie w porÃ³wnaniu z wersjÄ… nr 3
+	5.	kopiowanie zawartoÅ›ci pliku z dekoratorem nr 1 i 2 dla sÅ‚owa "BeBe"
+		oraz jeszcze raz 2 dla sÅ‚owa "bankierÃ³w"
+	6.	kopiowanie zawartoÅ›ci pliku z dekoratorem nr 1, 2 oraz 3 dla sï¿½owa
+		"BeBe" oraz jeszcze raz 2 dla sÅ‚owa "bankierÃ³w"
